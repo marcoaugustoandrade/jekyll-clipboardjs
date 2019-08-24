@@ -1,11 +1,11 @@
 # jekyll-clipboardjs
 
-This code help to use (clipboardsjs)[https://clipboardjs.com/] in code snippets generated from Jekyll, adding a button to copy code.
+This code help to use [clipboardsjs](https://clipboardjs.com/) in code snippets generated from Jekyll, adding a button to copy code.
 
 
 ## Usage
 
-Add (copy.js)[copy.js], (clipboard.js)[clipboard.js] and (style.css)[style.css] into assets folder.
+Add [copy.js](copy.js), [clipboard.js](clipboard.js) and [style.css](style.css) into assets folder.
 
 In Jekyll layouts files include modifications highlight style (I just add style for button created):
 ```html
@@ -20,4 +20,4 @@ In the same files include clipboard.js and copy.js:
 
 ## Example
 
-This (example.html)[example.html] show the usage.
+This [example.html](example.html) show the usage.
