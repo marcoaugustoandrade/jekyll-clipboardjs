@@ -1,6 +1,6 @@
 # jekyll-clipboardjs
 
-This code help to use [clipboardsjs](https://clipboardjs.com/) in code snippets generated from Jekyll, adding a button to copy code.
+This code help to use [clipboardsjs](https://clipboardjs.com/) in code snippets generated from [Jekyll](https://jekyllrb.com/), adding a button to copy code.
 
 
 ## Usage
