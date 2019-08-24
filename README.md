@@ -20,4 +20,4 @@ In the same files include clipboard.js and copy.js:
 
 ## Example
 
-This [example.html](example.html) show the usage.
+This [example.html](https://marcoaugustoandrade.github.io/jekyll-clipboardjs/example.html) show the usage.
